@@ -52,5 +52,27 @@
     <th>دوشنبه</th>
   </tr>
    <tr>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th>سه شنبه</th>
+ </tr>
+  <tr>
+   <th ></th>
+   <th ></th>
+   <th ></th>
+   <th ></th>
+   <th ></th>
+   <th>چهارشنبه</th>
+ </tr>
+ <tr>
+  <th ></th>
+  <th ></th>
+  <th ></th>
+  <th ></th>
+  <th ></th>
+  <th>پنجشنبه</th>
   </tr>
 </table>
