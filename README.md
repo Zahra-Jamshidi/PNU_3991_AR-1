@@ -33,12 +33,6 @@
     <th>روز</th>
   </tr>
   <tr>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-    <th>شنبه</th>
   </tr>
    <tr>
     <th ></th>
