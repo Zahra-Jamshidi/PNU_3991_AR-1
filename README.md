@@ -1,8 +1,7 @@
 # PNU_3991_AR
 ---------
-### اسم
+### نازنین امینی عشق آبادی
  
-نازنین امینی عشق آبادی
 - [حساب گیت هاب](https://github.com/nazanin-amini)
 - [روزمه](https://nazanin-amini.github.io)
 
