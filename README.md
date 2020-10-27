@@ -5,7 +5,7 @@
 - [حساب گیت هاب](https://github.com/nazanin-amini)
 - [روزمه](https://nazanin-amini.github.io)
 
-- [SOP](https://github.com/nazanin-amini/SOP)
+- [SOP](https://github.com/nazanin-amini.github.io/SOP)
 
 
 ------------------
