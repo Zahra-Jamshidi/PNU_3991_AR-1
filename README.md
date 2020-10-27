@@ -4,9 +4,9 @@
  
 نازنین امینی عشق آبادی
 - [حساب گیت هاب](https://github.com/nazanin-amini)
-- [https://nazanin-amini.github.io](لینک رزومه)
+- [روزمه](https://nazanin-amini.github.io)
 
-- [SOP](لینک انگیزه نامه)
+- [SOP]()
 
 
 ------------------
