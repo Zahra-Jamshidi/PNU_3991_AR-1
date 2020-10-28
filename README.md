@@ -42,7 +42,6 @@
   </tr>
    <tr>
     <th ></th>
-    <th ></th>
      <th ><a herf="https://https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods" >1322010_01 روش پژوهش و ارائه</a></th>
      <th></th>
      <th ></th>
