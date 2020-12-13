@@ -41,9 +41,9 @@
     <summary>لاتک</summary>
   
  > ## لاتک
- - [صفحه 13 کتاب E-Research: Methods, Strategies, and Issues 1st Edition]()
- - [صفحه 14 کتاب E-Research: Methods, Strategies, and Issues 1st Edition]()
- - [صفحه 15 کتاب E-Research: Methods, Strategies, and Issues 1st Edition]()
+ - [صفحه 13 کتاب E-Research: Methods, Strategies, and Issues 1st Edition](https://github.com/nazanin-amini/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/amini-13.TeX/amini.pdf)
+ - [صفحه 14 کتاب E-Research: Methods, Strategies, and Issues 1st Edition](https://github.com/nazanin-amini/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/amini-14.TeX/amini.pdf)
+ - [صفحه 15 کتاب E-Research: Methods, Strategies, and Issues 1st Edition](https://github.com/nazanin-amini/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/amini-15.TeX/amini.pdf)
   
 [<kbd>↩</kbd>](#TOC)
 </details>
@@ -54,8 +54,8 @@
     <summary>بیمر</summary>
   
  > ## بیمر
- - [E-Research: Methods, Strategies, and Issues 1st Edition ارائه کتبی خلاصه ی کتاب ]()
- - [E-Research: Methods, Strategies, and Issues 1st Edition ارائه شفاهی خلاصه ی کتاب ]()
+ - [E-Research: Methods, Strategies, and Issues 1st Edition ارائه کتبی خلاصه ی کتاب ](https://github.com/nazanin-amini/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/amini.beamer/amini.pdf)
+ - [E-Research: Methods, Strategies, and Issues 1st Edition ارائه شفاهی خلاصه ی کتاب ](https://github.com/nazanin-amini/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/%D8%A7%D8%B1%D8%A7%D8%A6%D9%87%20%D8%B4%D9%81%D8%A7%D9%87%DB%8C%20%D9%84%D8%A7%D8%AA%DA%A9%20-%D9%86%D8%A7%D8%B2%D9%86%DB%8C%D9%86%20%D8%A7%D9%85%DB%8C%D9%86%DB%8C%20%D8%B9%D8%B4%D9%82%20%D8%A7%D8%A8%D8%A7%D8%AF%DB%8C.mp4)
 [<kbd>↩</kbd>](#TOC)
 </details>
  
