@@ -4,7 +4,7 @@
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
 ## Research and Presentation Methods
-##  فهرست های کار گروهی
+##  فهرست کار های گروهی
 - [دروس مشابه](#RelatedCourses)
 - [جستجوی منابع دیگر](#RelatedResources)
 - [لاتک](#RelatedLatex)
