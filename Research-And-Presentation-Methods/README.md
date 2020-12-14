@@ -17,7 +17,7 @@
   
 > ## دروس مشابه
 - [دانشگاه PEPPERDINE در کالیفرنیا](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
-- [دانشگاه NWECASTEL در استرالیا](https://libguides.newcastle.edu.au/researchmethods)
+- [دانشگاه NEWCASTEL در استرالیا](https://libguides.newcastle.edu.au/researchmethods)
 - [دانشگاه POLSE ONE  در سانفرانسیسکو](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218770)
 - [دانشگاه SOUTHAMPTON ](https://library.soton.ac.uk/sash/research-methods)
 
@@ -65,6 +65,3 @@
 [<kbd>↩</kbd>](#TOC)
 
 </div>
-  
-  
-  
