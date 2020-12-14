@@ -24,7 +24,7 @@
     1. [_RPM02-32_فائزه صيدي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/33_%D9%81%D8%A7%D8%A6%D8%B2%D9%87%20%D8%B5%D9%8A%D8%AF%D9%8A)
      1. [_RPM02-64_رضوانه نورزائي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/64_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
      
-    1. G-L01
+1. G-L01
     1. [_LMT01-04_مهديه اسدپور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/04_%D9%85%D9%87%D8%AF%D9%8A%D9%87%20%D8%A7%D8%B3%D8%AF%D9%BE%D9%88%D8%B1)    
     1. [_LMT01-08_نازنين اميني عشق آبادي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/08_%D9%86%D8%A7%D8%B2%D9%86%D9%8A%D9%86%20%D8%A7%D9%85%D9%8A%D9%86%D9%8A%20%D8%B9%D8%B4%D9%82%20%D8%A7%D8%A8%D8%A7%D8%AF%D9%8A)  
      1. [_LMT01-10_امیر رضا باهوش مهدی آبادي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/10_%D8%A7%D9%85%D9%8A%D8%B1%D8%B1%D8%B6%D8%A7%20%D8%A8%D8%A7%D9%87%D9%88%D8%B4%20%D9%85%D9%87%D8%AF%D9%8A%20%D8%A2%D8%A8%D8%A7%D8%AF%D9%8A) 
