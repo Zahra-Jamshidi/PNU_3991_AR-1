@@ -6,7 +6,7 @@
 
 - [روزمه](https://nazanin-amini.github.io)
 
-- [SOP](https://nazanin-amini.github.io/SOP/)
+- [SOP](https://github.com/nazanin-amini/SOP)
 
 - [Certificates](https://nazanin-amini.github.io/Certificates/)
 
