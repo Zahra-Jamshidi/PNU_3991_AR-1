@@ -57,18 +57,18 @@
   <tr>
   </tr>
    <tr>
-    <th ></th>
+    <th ><a کلاس شیکه های کامپیوتری </a></th>
     <th ></th>
     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها 01-1115157</a></th>
-    <th></th>
-    <th ></th>
+    <th><a کلاس سیگنال و سیستم</a></th>
+    <th ><a کلاس مدار های الکتریکی و الکترونیکی</a></th>
     <th>شنبه</th>
   </tr>
    <tr>
     <th ></th>
+    <th ><a مطالعه دروس</a></th>
     <th ></th>
-    <th ></th>
-    <th ></th>
+    <th ><a مطالعه دروس </a></th>
     <th ></th>
     <th>یک شنبه</th>
   </tr>
@@ -85,15 +85,15 @@
     <th ></th>
     <th ></th>
     <th ></th>
-    <th ></th>
+    <th ><a کلاس سیستم عامل </a></th>
     <th>سه شنبه</th>
  </tr>
   <tr>
    <th ></th>
    <th ></th>
    <th ></th>
-   <th ></th>
-   <th ></th>
+   <th ><a مطالعه دروس </a></th>
+   <th ><a مطالعه دروس </a></th>
    <th>چهارشنبه</th>
  </tr>
  <tr>
