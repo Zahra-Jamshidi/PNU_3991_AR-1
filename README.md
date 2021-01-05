@@ -45,6 +45,10 @@
 --------------
 ## روز و ساعت ارائه دروس
 
+</div>
+
+<div dir="ltr">
+     
 <table style="width:100%">
   <tr>
     <th >16-18</th>
@@ -55,8 +59,6 @@
     <th>روز</th>
   </tr>
   <tr>
-  </tr>
-   <tr>
     <th ><a کلاس شیکه های کامپیوتری </a></th>
     <th ></th>
     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها 01-1115157</a></th>
