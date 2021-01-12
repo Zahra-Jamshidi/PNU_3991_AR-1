@@ -18,7 +18,7 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/nazanin-amini/PNU_3991_AR/blob/main/General/XX_GeneralSection_CheckList_AR_3991.pdf)
 ##  بخش دروس کارشناسی
 - [خلاصه ارزیابی درس روش پژوهش و ارائه](https://github.com/nazanin-amini/PNU_3991_AR/blob/main/General/XX_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس نظریه زبان و ماشین]()
+- [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/nazanin-amini/PNU_3991_AR/blob/main/General/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 ------------------
 ## گروه ها
 
