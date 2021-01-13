@@ -30,7 +30,9 @@
   <summary>جستجوی منابع دیگر</summary>
   
 > ## جستجوی منابع دیگر
-- [پایان نامه ارشد دانشگاه استکهلم با موضوع: Social Networks and Mobility Intentions of Refugees in Hofors](https://methods.sagepub.com/methods-map)
+- [پایان نامه ارشد دانشگاه نورث وسترن آمریکا با موضوع:Using topological information in opportunistic network coding / by Magdalena Johanna (Leenta) Grobler  ](https://hdl.handle.net/10394/2639)
+- [پایان نامه]()
+- [صفحات روش و پژوهش  پایان نامه مربوطه]()
   
 [<kbd>↩</kbd>](#TOC)
 </details>
